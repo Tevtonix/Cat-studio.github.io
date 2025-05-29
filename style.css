@@ -1,0 +1,16 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fff0f5;
+}
+
+.text-pink {
+  color: #d63384;
+}
+
+section {
+  padding: 60px 0;
+}
+
+form input:invalid {
+  border: 1px solid red;
+}
